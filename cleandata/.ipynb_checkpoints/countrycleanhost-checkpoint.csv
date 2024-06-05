@@ -1,0 +1,54 @@
+﻿game_slug,game_location,game_season,game_year,startingyear,start_month_name,startingday,startingtime,gamedays,gamecity
+beijing-2022,China,Winter,2022,2022,Feb,4,15:00:00,15,Beijing
+tokyo-2020,Japan,Summer,2020,2021,Jul,23,11:00:00,16,Tokyo
+pyeongchang-2018,South Korea,Winter,2018,2018,Feb,8,23:00:00,16,PyeongChang
+rio-2016,Brazil,Summer,2016,2016,Aug,5,12:00:00,16,Rio
+sochi-2014,Russia,Winter,2014,2014,Feb,7,04:00:00,16,Sochi
+london-2012,United Kingdom,Summer,2012,2012,Jul,27,07:00:00,16,London
+vancouver-2010,Canada,Winter,2010,2010,Feb,12,16:00:00,15,Vancouver
+beijing-2008,China,Summer,2008,2008,Aug,8,00:00:00,16,Beijing
+turin-2006,Italy,Winter,2006,2006,Feb,10,07:00:00,16,Turin
+athens-2004,Greece,Summer,2004,2004,Aug,13,06:00:00,16,Athens
+salt-lake-city-2002,United States,Winter,2002,2002,Feb,8,15:00:00,15,Salt Lake City
+sydney-2000,Australia,Summer,2000,2000,Sep,15,01:00:00,16,Sydney
+nagano-1998,Japan,Winter,1998,1998,Feb,6,23:00:00,15,Nagano
+atlanta-1996,United States,Summer,1996,1996,Jul,19,12:00:00,17,Atlanta
+lillehammer-1994,Norway,Winter,1994,1994,Feb,12,07:00:00,15,Lillehammer
+barcelona-1992,Spain,Summer,1992,1992,Jul,25,06:00:00,15,Barcelona
+albertville-1992,France,Winter,1992,1992,Feb,8,07:00:00,15,Albertville
+seoul-1988,South Korea,Summer,1988,1988,Sep,16,22:00:00,15,Seoul
+calgary-1988,Canada,Winter,1988,1988,Feb,13,15:00:00,14,Calgary
+los-angeles-1984,United States,Summer,1984,1984,Jul,28,15:00:00,15,Los Angeles
+sarajevo-1984,Serbia,Winter,1984,1984,Feb,8,07:00:00,11,Sarajevo
+moscow-1980,Russia,Summer,1980,1980,Jul,19,05:00:00,15,Moscow
+lake-placid-1980,United States,Winter,1980,1980,Feb,13,13:00:00,10,Lake Placid
+montreal-1976,Canada,Summer,1976,1976,Jul,17,12:00:00,14,Montreal
+innsbruck-1976,Austria,Winter,1976,1976,Feb,4,07:00:00,11,Innsbruck
+munich-1972,Germany,Summer,1972,1972,Aug,26,07:00:00,16,Munich
+sapporo-1972,Japan,Winter,1972,1972,Feb,2,23:00:00,10,Sapporo
+mexico-city-1968,Mexico,Summer,1968,1968,Oct,12,16:00:00,15,Mexico City
+grenoble-1968,France,Winter,1968,1968,Feb,6,07:00:00,12,Grenoble
+tokyo-1964,Japan,Summer,1964,1964,Oct,9,23:00:00,14,Tokyo
+innsbruck-1964,Austria,Winter,1964,1964,Jan,29,07:00:00,11,Innsbruck
+rome-1960,Italy,Summer,1960,1960,Aug,25,07:00:00,17,Rome
+squaw-valley-1960,United States,Winter,1960,1960,Feb,18,16:00:00,9,Squaw Valley
+melbourne-1956,Australia,Summer,1956,1956,Nov,21,22:00:00,16,Melbourne
+cortina-d-ampezzo-1956,Italy,Winter,1956,1956,Jan,26,07:00:00,10,Cortina d'Ampezzo
+helsinki-1952,Finland,Summer,1952,1952,Jul,19,07:00:00,15,Helsinki
+oslo-1952,Norway,Winter,1952,1952,Feb,14,07:00:00,11,Oslo
+london-1948,United Kingdom,Summer,1948,1948,Jul,29,07:00:00,16,London
+st-moritz-1948,Switzerland,Winter,1948,1948,Jan,30,07:00:00,9,St. Moritz
+berlin-1936,Germany,Summer,1936,1936,Aug,1,07:00:00,15,Berlin
+garmisch-partenkirchen-1936,Germany,Winter,1936,1936,Feb,6,08:00:00,10,Garmisch-Partenkirchen
+los-angeles-1932,United States,Summer,1932,1932,Jul,30,16:00:00,15,Los Angeles
+lake-placid-1932,United States,Winter,1932,1932,Feb,4,13:00:00,11,Lake Placid
+amsterdam-1928,Netherlands,Summer,1928,1928,May,17,07:00:00,87,Amsterdam
+st-moritz-1928,Switzerland,Winter,1928,1928,Feb,11,08:00:00,8,St. Moritz
+paris-1924,France,Summer,1924,1924,May,4,07:00:00,84,Paris
+chamonix-1924,France,Winter,1924,1924,Jan,25,08:00:00,11,Chamonix
+antwerp-1920,Belgium,Summer,1920,1920,Apr,20,07:00:00,145,Antwerp
+stockholm-1912,Sweden,Summer,1912,1912,May,5,08:00:00,83,Stockholm
+london-1908,United Kingdom,Summer,1908,1908,Apr,27,08:00:00,187,London
+st-louis-1904,United States,Summer,1904,1904,Jul,1,14:00:00,145,St. Louis
+paris-1900,France,Summer,1900,1900,May,14,08:50:39,167,Paris
+athens-1896,Greece,Summer,1896,1896,Apr,6,11:38:39,9,Athens

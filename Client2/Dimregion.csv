@@ -1,0 +1,235 @@
+﻿country,region,countryID
+India,Asia,0
+China,Asia,1
+United States,North America,2
+Indonesia,Asia,3
+Pakistan,Asia,4
+Nigeria,Africa,5
+Brazil,South America,6
+Bangladesh,Asia,7
+Russia,Europe,8
+Ethiopia,Africa,9
+Mexico,North America,10
+Japan,Asia,11
+Philippines,Asia,12
+Egypt,Africa,13
+DR Congo,Africa,14
+Vietnam,Asia,15
+Iran,Asia,16
+Turkey,Asia,17
+Germany,Europe,18
+Thailand,Asia,19
+Tanzania,Africa,20
+United Kingdom,Europe,21
+France,Europe,22
+South Africa,Africa,23
+Italy,Europe,24
+Kenya,Africa,25
+Myanmar,Asia,26
+Colombia,South America,27
+South Korea,Asia,28
+Uganda,Africa,29
+Sudan,Africa,30
+Spain,Europe,31
+Iraq,Asia,32
+Algeria,Africa,33
+Argentina,South America,34
+Afghanistan,Asia,35
+Poland,Europe,36
+Canada,North America,37
+Morocco,Africa,38
+Ukraine,Europe,39
+Angola,Africa,40
+Saudi Arabia,Asia,41
+Uzbekistan,Asia,42
+Yemen,Asia,43
+Mozambique,Africa,44
+Ghana,Africa,45
+Peru,South America,46
+Malaysia,Asia,47
+Nepal,Asia,48
+Madagascar,Africa,49
+Ivory Coast,Africa,50
+Venezuela,South America,51
+Cameroon,Africa,52
+Niger,Africa,53
+Australia,Oceania,54
+North Korea,Asia,55
+Syria,Asia,56
+Mali,Africa,57
+Taiwan,Asia,58
+Burkina Faso,Africa,59
+Sri Lanka,Asia,60
+Malawi,Africa,61
+Zambia,Africa,62
+Kazakhstan,Asia,63
+Chile,South America,64
+Romania,Europe,65
+Chad,Africa,66
+Somalia,Africa,67
+Ecuador,South America,68
+Guatemala,North America,69
+Senegal,Africa,70
+Netherlands,Europe,71
+Cambodia,Asia,72
+Zimbabwe,Africa,73
+Guinea,Africa,74
+Rwanda,Africa,75
+Benin,Africa,76
+Burundi,Africa,77
+Bolivia,South America,78
+Tunisia,Africa,79
+Haiti,North America,80
+Belgium,Europe,81
+Dominican Republic,North America,82
+Jordan,Asia,83
+South Sudan,Africa,84
+Cuba,North America,85
+Honduras,North America,86
+Sweden,Europe,87
+Papua New Guinea,Oceania,88
+Czech Republic,Europe,89
+Azerbaijan,Asia,90
+Tajikistan,Asia,91
+Greece,Europe,92
+Portugal,Europe,93
+Hungary,Europe,94
+United Arab Emirates,Asia,95
+Belarus,Europe,96
+Israel,Asia,97
+Togo,Africa,98
+Sierra Leone,Africa,99
+Austria,Europe,100
+Switzerland,Europe,101
+Laos,Asia,102
+Hong Kong,Asia,103
+Nicaragua,North America,104
+Serbia,Europe,105
+Libya,Africa,106
+Paraguay,South America,107
+Kyrgyzstan,Asia,108
+Bulgaria,Europe,109
+Turkmenistan,Asia,110
+El Salvador,North America,111
+Republic of the Congo,Africa,112
+Singapore,Asia,113
+Denmark,Europe,114
+Central African Republic,Africa,115
+Slovakia,Europe,116
+Finland,Europe,117
+Liberia,Africa,118
+Norway,Europe,119
+Palestine,Asia,120
+New Zealand,Oceania,121
+Costa Rica,North America,122
+Lebanon,Asia,123
+Ireland,Europe,124
+Mauritania,Africa,125
+Oman,Asia,126
+Panama,North America,127
+Kuwait,Asia,128
+Croatia,Europe,129
+Eritrea,Africa,130
+Georgia,Asia,131
+Mongolia,Asia,132
+Uruguay,South America,133
+Moldova,Europe,134
+Puerto Rico,North America,135
+Bosnia and Herzegovina,Europe,136
+Gambia,Africa,137
+Albania,Europe,138
+Jamaica,North America,139
+Armenia,Asia,140
+Qatar,Asia,141
+Botswana,Africa,142
+Lithuania,Europe,143
+Namibia,Africa,144
+Gabon,Africa,145
+Lesotho,Africa,146
+Guinea-Bissau,Africa,147
+Slovenia,Europe,148
+North Macedonia,Europe,149
+Latvia,Europe,150
+Equatorial Guinea,Africa,151
+Trinidad and Tobago,North America,152
+Bahrain,Asia,153
+Timor-Leste,Asia,154
+Estonia,Europe,155
+Mauritius,Africa,156
+Cyprus,Europe,157
+Eswatini,Africa,158
+Djibouti,Africa,159
+Reunion,Africa,160
+Fiji,Oceania,161
+Comoros,Africa,162
+Guyana,South America,163
+Bhutan,Asia,164
+Solomon Islands,Oceania,165
+Macau,Asia,166
+Luxembourg,Europe,167
+Suriname,South America,168
+Montenegro,Europe,169
+Cape Verde,Africa,170
+Western Sahara,Africa,171
+Malta,Europe,172
+Maldives,Asia,173
+Brunei,Asia,174
+Belize,North America,175
+Bahamas,North America,176
+Guadeloupe,North America,177
+Iceland,Europe,178
+Martinique,North America,179
+Mayotte,Africa,180
+Vanuatu,Oceania,181
+French Guiana,South America,182
+French Polynesia,Oceania,183
+New Caledonia,Oceania,184
+Barbados,North America,185
+Sao Tome and Principe,Africa,186
+Samoa,Oceania,187
+Curacao,North America,188
+Saint Lucia,North America,189
+Guam,Oceania,190
+Kiribati,Oceania,191
+Grenada,North America,192
+Micronesia,Oceania,193
+Jersey,Europe,194
+Tonga,Oceania,195
+Seychelles,Africa,196
+Aruba,North America,197
+Saint Vincent and the Grenadines,North America,198
+United States Virgin Islands,North America,199
+Antigua and Barbuda,North America,200
+Isle of Man,Europe,201
+Andorra,Europe,202
+Dominica,North America,203
+Cayman Islands,North America,204
+Bermuda,North America,205
+Guernsey,Europe,206
+Greenland,North America,207
+Faroe Islands,Europe,208
+Northern Mariana Islands,Oceania,209
+Saint Kitts and Nevis,North America,210
+Turks and Caicos Islands,North America,211
+Sint Maarten,North America,212
+American Samoa,Oceania,213
+Marshall Islands,Oceania,214
+Liechtenstein,Europe,215
+Monaco,Europe,216
+San Marino,Europe,217
+Gibraltar,Europe,218
+Saint Martin,North America,219
+British Virgin Islands,North America,220
+Palau,Oceania,221
+Cook Islands,Oceania,222
+Anguilla,North America,223
+Nauru,Oceania,224
+Tuvalu,Oceania,225
+Wallis and Futuna,Oceania,226
+Saint Barthelemy,North America,227
+Saint Pierre and Miquelon,North America,228
+Montserrat,North America,229
+Falkland Islands,South America,230
+Niue,Oceania,231
+Tokelau,Oceania,232
+Vatican City,Europe,233
